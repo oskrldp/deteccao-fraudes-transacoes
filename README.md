@@ -35,10 +35,8 @@ O notebook contém instruções antes de cada bloco. Você não precisa decidir 
 ```text
 projeto_deteccao_fraudes/
 ├── README.md
-├── GUIA_INICIANTE.md
 ├── requirements.txt
-└── notebooks/
-    └── deteccao_fraudes_completo.ipynb
+└── deteccao_fraudes_completo.ipynb
 ```
 
 ## Conceitos mais importantes
